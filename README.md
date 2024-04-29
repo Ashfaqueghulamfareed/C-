@@ -1,1 +1,1 @@
-this is is about Student record management system.
+in this we manage student records forexample student biodata
